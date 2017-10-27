@@ -2,11 +2,6 @@ package distanceToEnucomp
 
 import "math"
 
-func main() {
-	fmt.Println(Info())
-	fmt.Println(DistanceTo(-7.079602, -41.433254))
-}
-
 func Info() string {
 	return "O ENUCOMP vem se firmando como um dos maiores eventos de tecnologia do estado do Piauí e " +
 		" estados vizinhos da região Nordeste. A edição de 10 anos será realizada de 15 a 17 de novembro na " +
